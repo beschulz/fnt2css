@@ -8,6 +8,6 @@ License: GPL
 
 converts sparrow xml font files to css for use on the web.
 
-Check out test.html or the [http://beschulz.github.com/fnt2css/](online example).
+Check out test.html or the [online example](http://beschulz.github.com/fnt2css/).
 
 Feel free to drop me line, if you're using this somehow.
